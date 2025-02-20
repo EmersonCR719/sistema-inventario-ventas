@@ -58,7 +58,9 @@ cd tu-repositorio
 3. Genera reportes de ventas en formato PDF.
 
 ## Ejemplo de Reporte
-Adjunta un ejemplo de reporte generado por el sistema.
+El sistema genera reportes de ventas en formato PDF. Puedes ver un ejemplo de reporte en la carpeta [`docs`](./docs/) o descargarlo directamente aquí:  
+
+➡ [Ejemplo de Reporte de Ventas (PDF)](./docs/reporte_ventas.pdf)
 
 ## Contribuciones
 Si deseas contribuir, realiza un fork del repositorio y abre un pull request con tus mejoras.
