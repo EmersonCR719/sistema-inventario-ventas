@@ -65,6 +65,3 @@ El sistema genera reportes de ventas en formato PDF. Puedes ver un ejemplo de re
 ## Contribuciones
 Si deseas contribuir, realiza un fork del repositorio y abre un pull request con tus mejoras.
 
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
-
